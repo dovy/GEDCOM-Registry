@@ -1,0 +1,9 @@
+[Appearance]
+MatchFirst=YES
+ConflictColor=0
+ConflictForeColor=0
+    
+[Accent]
+Definition1=Living/=/Y/65280/0/0
+Definition2=LIVING/=/N/255/16777215/0
+Definition3=Living/=/?/65535/0/0
