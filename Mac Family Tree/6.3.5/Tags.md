@@ -1,3 +1,8 @@
+Taken from source file
+====================
+`MacFamilyTree.app/Contents/Frameworks/MacFamilyTreeCore.framework/Versions/A/Headers/GedcomImporter_Tags.h`
+
+
 |Name| Abbreviation| Tag| useValue| useDate| usePlace|
 |---| ---| ---| ----| ---| ---|
 | | |_BKM| | | |

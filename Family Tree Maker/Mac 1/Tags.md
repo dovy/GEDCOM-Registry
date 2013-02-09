@@ -25,7 +25,6 @@
 |Death| |DEAT| | | |
 |Degree| |_DEG| | | |
 |Departure| |DPRT| | | |
-|Destination| |_DEST| | | |
 |Divorce| |DIV| | | |
 |DivorceFiled| |DIVF| | | |
 |DNAMarkers| |_DNA| | | |
@@ -42,7 +41,6 @@
 |Graduation| |GRAD| | | |
 |Height| |_HEIG| | | |
 |Immigration| |IMMI| | | |
-|Initiatory(LDS)| |_INIT| | | |
 |Marriage| |MARR| | | |
 |MarriageBann| |MARB| | | |
 |MarriageContract| |MARC| | | |
@@ -56,9 +54,7 @@
 |Nationality| |NATI| | | |
 |Naturalization| |NATU| | | |
 |Occupation| |OCCU| | | |
-|Ordinance| |_ORDI| | | |
 |Ordination| |ORDN| | | |
-|Origin| |_ORIG| | | |
 |PhoneNumber| |PHON| | | |
 |PhysicalDescription| |DSCR| | | |
 |Probate| |PROB| | | |
@@ -78,14 +74,3 @@
 |WebAddress| |_WEB| | | |
 |Weight| |_WEIG| | | |
 |Will| |WILL| | ||
-
-
-Newly added from previous mac version
------------------------
-|Name      |Abbreviation|Tag|useValue|useDate|usePlace|
-|----------|----------|----------|----------|----------|----------|
-|Destination| |_DEST| | | |
-|Initiatory(LDS)| |_INIT| | | |
-|Ordinance| |_ORDI| | | |
-|Origin| |_ORIG| | | |
-
